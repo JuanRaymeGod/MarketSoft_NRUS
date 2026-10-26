@@ -1,0 +1,7 @@
+# Ignorar compilados y carpetas de NetBeans/Maven
+/target/
+*.class
+/nbproject/private/
+
+# Ignorar la base de datos local para que cada quien tenga la suya
+*.db
